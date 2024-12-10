@@ -60,6 +60,8 @@ Game play
 6. Particle Effects
 * Various particle effects will be used for explosions, weapon impacts, magic effects, and environmental hazards. This will create a dynamic, engaging visual experience during combat and exploration.
 
+![Uploading New Note.jpeg…]()
+
 7. Animation
 * The game will include animations for character actions, enemies, environmental changes (like weather effects), and interactive elements (such as NPCs or switches). Animations will be designed to match the style and flow of the game.
 
